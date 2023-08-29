@@ -1,4 +1,4 @@
-# Theoretical and Experimental Studies of Diffraction on Optical-Disks
+# Theoretical and Experimental Studies of Diffraction on Optical Disks
 
 ## Abstract
 
