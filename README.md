@@ -1,6 +1,6 @@
 # Theoretical and Experimental Studies of Diffraction on Optical Disks
 
-Yong-Wook Kim, Jaeyun Ko
+Yong-Wook Kim
 
 ## Abstract
 
