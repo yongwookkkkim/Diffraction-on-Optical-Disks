@@ -6,8 +6,8 @@ import pandas as pd
 from PIL import Image
 
 #constants
-Lambda = 1500e-9
-w = 600e-9
+Lambda = 720e-9
+w = 320e-9
 h = 120e-9
 visible_low = 400e-9
 visible_high = 750e-9
@@ -18,10 +18,6 @@ r_outer = 6e-2
 alpha_exp = 83.5 * np.pi / 180
 phi_exp = 38 * np.pi / 180
 thick = 1.2e-3
-
-#23.0cm, 40.6deg -> 17.5, 14.5; 36
-#26, 14.5 -> 29deg, 29.8cm
-#34.5, 14.5 + tilting -> 21deg, 37.4cm; 19, 35
 
 #case 1: 22.7cm, 38deg
 #case 2: 29.8cm, 29deg
