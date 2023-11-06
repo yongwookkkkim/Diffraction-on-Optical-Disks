@@ -8,6 +8,6 @@ Incident light on an optical disk produces a distinct bright line on its surface
 
 ## How to Navigate this Repository
 
-This repository is a supplement to my research paper, which can also be found here in pdf format. The 'videos' folder stores the gifs of 1) simulations 2) direct photographs of written 3) direct photographs of unwritten CDs and DVDs in Cases 1 through 3 (refer to the paper for the definition of these cases). The subfolders that store these gifs are named accordingly. Because it is hard to confirm the validity of the simulation by going back and forth between the simulated gif and the experiment animation gif, videos that directly compare the simulations to the direct photographs side-by-side had been uploaded to the 'comparison' subfolder.
+This repository is a supplement to my research paper, which can also be found here in pdf format. The 'videos' folder stores the gifs of 1) simulations 2) direct photographs of written 3) direct photographs of unwritten CDs and DVDs in Cases 1 through 3 (refer to the paper for the definition of these cases). The subfolders that store these gifs are named accordingly. Because it is hard to confirm the validity of the simulation by going back and forth between the simulated gif and the experiment animation gif, videos that directly compare the simulations to the photographs side-by-side had been uploaded to the 'comparison' subfolder.
 
 You can also look at the python codes that I ran to simulate the colored lines in the 'codes' folder (though they're quite messy...)!
